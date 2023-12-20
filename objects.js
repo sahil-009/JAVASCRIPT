@@ -1,6 +1,6 @@
 //singleton
 
-//object literals
+//this is object literals
 // Object.create   //singleton method
 
 const mysym = Symbol("sym1")
